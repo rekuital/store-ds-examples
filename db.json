@@ -3,27 +3,32 @@
         {
             "id": 1,
             "name": "Твикс маленький",
-            "price": 40
+            "price": 40,
+            "barcode": "11"
         },
         {
             "id": 2,
             "name": "Твикс большой",
-            "price": 70
+            "price": 70,
+            "barcode": "22"
         },
         {
             "id": 3,
             "name": "Сникерс маленький",
-            "price": 40
+            "price": 40,
+            "barcode": "33"
         },
         {
             "id": 4,
             "name": "Сникерс большой",
-            "price": 70
+            "price": 70,
+            "barcode": "44"
         },
         {
             "id": 5,
             "name": "Чипсы Lay's",
-            "price": 100
+            "price": 100,
+            "barcode": "55"
         }
     ]
 }
